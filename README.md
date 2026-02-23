@@ -29,29 +29,30 @@ This project was built to practice core programming fundamentals:
 
 The focus is on backend logic rather than GUI or database integration.
 
-How to Run
+How to Run:
 
-Clone the repository
+1. Clone the repository
 
-Open terminal in project folder
+2. Open terminal in project folder
 
-Run the program
+3. Run the program
 
 python sdms.py
-Limitations
 
-No persistent storage (data resets after exit)
+Limitations:
 
-No graphical interface
+1. No persistent storage (data resets after exit)
 
-Future Improvements
+2. No graphical interface
 
-File or database storage
+Future Improvements:
 
-Graphical user interface
+1. File or database storage
 
-Sorting and filtering options
+2. Graphical user interface
 
-Author
+3. Sorting and filtering options
+
+Author:
 
 Created as a foundational Computer Science learning project.
